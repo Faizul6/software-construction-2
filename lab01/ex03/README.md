@@ -1,7 +1,6 @@
-\# Lab 01 – Exercise 03  
+# Lab 01 â€“ Exercise 03  
 
-\## Roman Numeral Converter
-
+## Roman Numeral Converter
 
 
 In this exercise, I implemented a Roman Numeral Converter in Java.
@@ -18,7 +17,7 @@ This task focuses on working with strings, characters, conditionals, and basic a
 
 
 
-\## Task Overview
+## Task Overview
 
 
 
@@ -26,19 +25,19 @@ Roman numerals use seven different symbols:
 
 
 
-\- I = 1  
+- I = 1  
 
-\- V = 5  
+- V = 5  
 
-\- X = 10  
+- X = 10  
 
-\- L = 50  
+- L = 50  
 
-\- C = 100  
+- C = 100  
 
-\- D = 500  
+- D = 500  
 
-\- M = 1000  
+- M = 1000  
 
 
 
@@ -50,9 +49,9 @@ Examples:
 
 
 
-\- "III" = 1 + 1 + 1 = 3  
+- "III" = 1 + 1 + 1 = 3  
 
-\- "LVIII" = 50 + 5 + 1 + 1 + 1 = 58  
+- "LVIII" = 50 + 5 + 1 + 1 + 1 = 58  
 
 
 
@@ -66,17 +65,17 @@ Examples:
 
 
 
-\- "IV" = 5 - 1 = 4  
+- "IV" = 5 - 1 = 4  
 
-\- "IX" = 10 - 1 = 9  
+- "IX" = 10 - 1 = 9  
 
-\- "XL" = 50 - 10 = 40  
+- "XL" = 50 - 10 = 40  
 
-\- "XC" = 100 - 10 = 90  
+- "XC" = 100 - 10 = 90  
 
-\- "CD" = 500 - 100 = 400  
+- "CD" = 500 - 100 = 400  
 
-\- "CM" = 1000 - 100 = 900  
+- "CM" = 1000 - 100 = 900  
 
 
 
@@ -88,7 +87,7 @@ The program processes the Roman numeral string character by character and applie
 
 
 
-\## My Task
+## My Task
 
 
 
@@ -96,11 +95,11 @@ The program should:
 
 
 
-1\. Ask the user to enter a Roman numeral as a string.
+1. Ask the user to enter a Roman numeral as a string.
 
-2\. Convert it into an integer using the rules described above.
+2. Convert it into an integer using the rules described above.
 
-3\. Display the result.
+3. Display the result.
 
 
 
@@ -108,15 +107,15 @@ Example test cases:
 
 
 
-\- "III" should return 3  
+- "III" should return 3  
 
-\- "IV" should return 4  
+- "IV" should return 4  
 
-\- "IX" should return 9  
+- "IX" should return 9  
 
-\- "LVIII" should return 58  
+- "LVIII" should return 58  
 
-\- "MCMXCIV" should return 1994  
+- "MCMXCIV" should return 1994  
 
 
 
@@ -124,7 +123,7 @@ Example test cases:
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -132,11 +131,11 @@ The implementation includes:
 
 
 
-\- Use of the `Scanner` class for user input.
+- Use of the `Scanner` class for user input.
 
-\- Processing the string character by character.
+- Processing the string character by character.
 
-\- Handling both normal addition and subtraction cases.
+- Handling both normal addition and subtraction cases.
 
-\- Displaying clear and readable output.
+- Displaying clear and readable output.
 

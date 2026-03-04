@@ -1,1 +1,114 @@
-# lab01 – ex01
+# \# Lab 01 – Exercise 01  
+
+# \## Name Management System
+
+# 
+
+# In this exercise, I implemented a simple Name Management System in Java.
+
+# 
+
+# The goal was to create a program that allows a person to change their name, but only if at least three years have passed since the last name change.
+
+# 
+
+# ---
+
+# 
+
+# \## Task Overview
+
+# 
+
+# The program includes:
+
+# 
+
+# \- A `Person` class with:
+
+# &nbsp; - first name
+
+# &nbsp; - last name
+
+# &nbsp; - date of last name change (day, month, year)
+
+# 
+
+# \- Methods:
+
+# &nbsp; - Constructor to initialize all attributes
+
+# &nbsp; - `showDetails()` to display stored information
+
+# &nbsp; - `changeName()` to update the name if the 3-year rule is fulfilled
+
+# 
+
+# In the `main` method:
+
+# \- Three `Person` objects are created.
+
+# \- The user selects which person to modify.
+
+# \- The program checks whether the name change is allowed.
+
+# \- The updated data is displayed.
+
+# 
+
+# User input is handled using `Scanner`.
+
+# 
+
+# ---
+
+# 
+
+# \## UML Diagram
+
+# 
+
+# The following UML diagram shows the structure of the program:
+
+# 
+
+# !\[UML Diagram](images/ex01-uml-diagram.png)
+
+# 
+
+# ---
+
+# 
+
+# \## How to Run
+
+# 
+
+# 1\. Open the project in IntelliJ.
+
+# 2\. Navigate to `lab01/ex01`.
+
+# 3\. Run the `Main` class.
+
+# 4\. Follow the console instructions.
+
+# 
+
+# ---
+
+# 
+
+# \## What I Practiced
+
+# 
+
+# \- Basic object-oriented programming
+
+# \- Creating classes and constructors
+
+# \- Working with methods and parameters
+
+# \- Console input handling
+
+# \- Translating UML into Java code
+

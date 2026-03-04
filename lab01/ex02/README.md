@@ -1,4 +1,4 @@
-\# Lab 01 – Exercise 02  
+# Lab 01 â€“ Exercise 02  
 
 \## Number Guessing Game
 

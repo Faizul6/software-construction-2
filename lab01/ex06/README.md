@@ -1,6 +1,6 @@
-\# Lab 01 – Exercise 06  
+# Lab 01 â€“ Exercise 06  
 
-\## Word Counter Program
+## Word Counter Program
 
 
 
@@ -18,7 +18,7 @@ This task focuses on string manipulation, character analysis, and data processin
 
 
 
-\## Task Overview
+## Task Overview
 
 
 
@@ -26,9 +26,9 @@ The program performs the following steps:
 
 
 
-1\. The user enters a sentence or paragraph.
+1. The user enters a sentence or paragraph.
 
-2\. The program analyzes the text and displays a detailed report.
+2. The program analyzes the text and displays a detailed report.
 
 
 
@@ -36,37 +36,37 @@ The analysis includes:
 
 
 
-\### Character Statistics
+### Character Statistics
 
 
 
-\- Total number of characters (including spaces)
+- Total number of characters (including spaces)
 
-\- Total number of characters (excluding spaces)
+- Total number of characters (excluding spaces)
 
-\- Number of vowels (a, e, i, o, u – case insensitive)
+- Number of vowels (a, e, i, o, u â€“ case insensitive)
 
-\- Number of consonants
-
-
-
-\### Word Statistics
+- Number of consonants
 
 
 
-\- Total number of words
-
-\- The longest word in the text
+### Word Statistics
 
 
 
-\### Sentence Statistics
+- Total number of words
+
+- The longest word in the text
 
 
 
-\- Total number of sentences  
+### Sentence Statistics
 
-&nbsp; (based on periods, question marks, and exclamation marks)
+
+
+- Total number of sentences  
+
+ (based on periods, question marks, and exclamation marks)
 
 
 
@@ -78,7 +78,7 @@ The results are displayed in a clear and formatted output.
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -86,17 +86,17 @@ The implementation includes:
 
 
 
-\- Use of string methods for text processing.
+- Use of string methods for text processing.
 
-\- Processing the text character by character.
+- Processing the text character by character.
 
-\- Handling both uppercase and lowercase letters.
+- Handling both uppercase and lowercase letters.
 
-\- Considering punctuation appropriately.
+- Considering punctuation appropriately.
 
-\- Use of the `Scanner` class for user input.
+- Use of the `Scanner` class for user input.
 
-\- Displaying results in a well-structured report format.
+- Displaying results in a well-structured report format.
 
 
 

@@ -38,20 +38,3 @@ User input is handled using `Scanner`.
 </p>
 
 ---
-
-## How to Run
-
-1. Open the project in IntelliJ.
-2. Navigate to `lab01/ex01`.
-3. Run the `Main` class.
-4. Follow the console instructions.
-
----
-
-## What I Practiced
-
-- Basic object-oriented programming
-- Creating classes and constructors
-- Working with methods and parameters
-- Console input handling
-- Translating UML into Java code

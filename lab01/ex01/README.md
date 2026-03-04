@@ -33,9 +33,9 @@ User input is handled using `Scanner`.
 
 ## UML Diagram
 
-The following UML diagram shows the structure of the program:
-
-![UML Diagram](images/ex01-uml-diagram.png)
+<p align="center">
+  <img src="images/ex01-uml-diagram.png" width="700">
+</p>
 
 ---
 

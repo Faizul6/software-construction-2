@@ -1,6 +1,6 @@
-\# Lab 01 – Exercise 05  
+# Lab 01 â€“ Exercise 05  
 
-\## Simple Calculator with Methods
+## Simple Calculator with Methods
 
 
 
@@ -18,25 +18,25 @@ Each arithmetic operation is implemented in a separate method.
 
 
 
-\## Task Overview
-
+## Task Overview
+ 
 
 
 The calculator program works as follows:
 
 
 
-1\. A menu with available operations is displayed.
+1. A menu with available operations is displayed.
 
-2\. The user selects an operation.
+2. The user selects an operation.
 
-3\. The user enters two numbers.
+3. The user enters two numbers.
 
-4\. The selected method is called to perform the calculation.
+4. The selected method is called to perform the calculation.
 
-5\. The result is displayed.
+5. The result is displayed.
 
-6\. The program continues running until the user chooses to exit.
+6. The program continues running until the user chooses to exit.
 
 
 
@@ -48,7 +48,7 @@ The calculator supports multiple calculations in one session.
 
 
 
-\## Supported Operations
+## Supported Operations
 
 
 
@@ -56,15 +56,15 @@ The menu includes:
 
 
 
-1\. Addition (+)  
+1. Addition (+)  
 
-2\. Subtraction (-)  
+2. Subtraction (-)  
+ 
+3. Multiplication (\*)  
 
-3\. Multiplication (\*)  
+4. Division (/)  
 
-4\. Division (/)  
-
-5\. Exit  
+5. Exit  
 
 
 
@@ -72,7 +72,7 @@ The menu includes:
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -80,17 +80,17 @@ The implementation includes:
 
 
 
-\- Separate methods for each arithmetic operation.
+- Separate methods for each arithmetic operation.
 
-\- Each method receives two parameters and returns the result.
+- Each method receives two parameters and returns the result.
 
-\- A loop structure to allow multiple calculations.
+- A loop structure to allow multiple calculations.
 
-\- Handling division by zero appropriately.
+- Handling division by zero appropriately.
 
-\- Use of the `Scanner` class for user input.
+- Use of the `Scanner` class for user input.
 
-\- Clear and readable console output.
+- Clear and readable console output.
 
 
 

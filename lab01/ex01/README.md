@@ -34,7 +34,7 @@ User input is handled using `Scanner`.
 ## UML Diagram
 
 <p align="center">
-  <img src="images/ex01-uml-diagram.png" width="700">
+  <img src="../../images/ex01-uml-diagram.png" width="700">
 </p>
 
 ---

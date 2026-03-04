@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-\# Lab 01 â€“ Exercise 02  
-=======
-\# Lab 01 – Exercise 02
->>>>>>> Stashed changes
+# Lab 01 â€“ Exercise 02
 
-\## Number Guessing Game
+## Number Guessing Game
 
 
 
@@ -22,7 +18,7 @@ This task focuses on practicing loops, conditionals, random number generation, a
 
 
 
-\## Task Overview
+## Task Overview
 
 
 
@@ -30,25 +26,19 @@ The program works as follows:
 
 
 
-&nbsp; - A random number between 1 and 100 (inclusive) is generated.
+- A random number between 1 and 100 (inclusive) is generated.
+- A welcome message explaining the game rules is displayed.
+- The user is repeatedly asked to guess the number.
+- After each guess, feedback is provided:
+- "Too small!" if the guess is lower than the target number.
+- "Too big!" if the guess is higher than the target number.
+- "You guessed it!" if the guess is correct.
 
-&nbsp; - A welcome message explaining the game rules is displayed.
+- The number of attempts is tracked.
 
-&nbsp; - The user is repeatedly asked to guess the number.
+- When the correct number is guessed, a congratulatory message is displayed along with the number of attempts.
 
-&nbsp; - After each guess, feedback is provided:
-
-  - "Too small!" if the guess is lower than the target number.
-
-  - "Too big!" if the guess is higher than the target number.
-
-  - "You guessed it!" if the guess is correct.
-
-&nbsp; - The number of attempts is tracked.
-
-&nbsp; - When the correct number is guessed, a congratulatory message is displayed along with the number of attempts.
-
-&nbsp; - The program ends after the correct guess.
+- The program ends after the correct guess.
 
 
 
@@ -60,7 +50,7 @@ The program assumes that user input is always a valid integer.
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -68,15 +58,15 @@ The implementation includes:
 
 
 
-\- Use of the `Random` class to generate numbers.
+- Use of the `Random` class to generate numbers.
 
-\- Use of the `Scanner` class to read user input.
+- Use of the `Scanner` class to read user input.
 
-\- A loop structure to continue asking for guesses until the correct number is entered.
+- A loop structure to continue asking for guesses until the correct number is entered.
 
-\- Clear and user-friendly console messages.
+- Clear and user-friendly console messages.
 
-\- Tracking and displaying the number of attempts.
+- Tracking and displaying the number of attempts.
 
 
 

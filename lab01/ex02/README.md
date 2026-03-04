@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 \# Lab 01 â€“ Exercise 02  
+=======
+\# Lab 01 – Exercise 02
+>>>>>>> Stashed changes
 
 \## Number Guessing Game
 
@@ -8,7 +12,7 @@ In this exercise, I implemented a simple Number Guessing Game in Java.
 
 
 
-The program generates a random number and the player tries to guess it.  
+The program generates a random number and the player tries to guess it.
 
 This task focuses on practicing loops, conditionals, random number generation, and user input handling.
 
@@ -26,25 +30,25 @@ The program works as follows:
 
 
 
-\- A random number between 1 and 100 (inclusive) is generated.
+&nbsp; - A random number between 1 and 100 (inclusive) is generated.
 
-\- A welcome message explaining the game rules is displayed.
+&nbsp; - A welcome message explaining the game rules is displayed.
 
-\- The user is repeatedly asked to guess the number.
+&nbsp; - The user is repeatedly asked to guess the number.
 
-\- After each guess, feedback is provided:
+&nbsp; - After each guess, feedback is provided:
 
-&nbsp; - "Too small!" if the guess is lower than the target number.
+  - "Too small!" if the guess is lower than the target number.
 
-&nbsp; - "Too big!" if the guess is higher than the target number.
+  - "Too big!" if the guess is higher than the target number.
 
-&nbsp; - "You guessed it!" if the guess is correct.
+  - "You guessed it!" if the guess is correct.
 
-\- The number of attempts is tracked.
+&nbsp; - The number of attempts is tracked.
 
-\- When the correct number is guessed, a congratulatory message is displayed along with the number of attempts.
+&nbsp; - When the correct number is guessed, a congratulatory message is displayed along with the number of attempts.
 
-\- The program ends after the correct guess.
+&nbsp; - The program ends after the correct guess.
 
 
 
@@ -73,4 +77,6 @@ The implementation includes:
 \- Clear and user-friendly console messages.
 
 \- Tracking and displaying the number of attempts.
+
+
 

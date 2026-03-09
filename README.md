@@ -1,4 +1,4 @@
-\# Software Construction 2
+# Software Construction 2
 
 
 
@@ -10,7 +10,7 @@ The labs focus on practicing fundamental Java programming concepts such as objec
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -18,23 +18,23 @@ The repository is organized by labs and exercises:
 
 
 
-\- `lab01/` – Introduction to classes, objects, and basic control structures
+- `lab01/` â€“ Introduction to classes, objects, and basic control structures
 
-\- `lab02/` – Encapsulation, Methods, Arrays, and Static Variables
+- `lab02/` â€“ Encapsulation, Methods, Arrays, and Static Variables
 
-\- `lab03/` – Inheritance, Polymorphism, and Class Hierarchies
+- `lab03/` â€“ Inheritance, Polymorphism, and Class Hierarchies
 
-\- `lab04/` – Advanced Algorithms: Recursion, Backtracking, and GUI Programming
+- `lab04/` â€“ Advanced Algorithms: Recursion, Backtracking, and GUI Programming
 
 Each exercise contains its own implementation.
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- IntelliJ IDEA
+- IntelliJ IDEA
 
-\- Git \& GitHub
+- Git \& GitHub
 

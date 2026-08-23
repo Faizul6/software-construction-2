@@ -18,13 +18,13 @@ The repository is organized by labs and exercises:
 
 
 
-- `lab01/` – Introduction to classes, objects, and basic control structures
+- `01-java-fundamentals/` – Introduction to classes, objects, and basic control structures
 
-- `lab02/` – Encapsulation, Methods, Arrays, and Static Variables
+- `02-oop-encapsulation-arrays/` – Encapsulation, Methods, Arrays, and Static Variables
 
-- `lab03/` – Inheritance, Polymorphism, and Class Hierarchies
+- `03-inheritance-polymorphism/` – Inheritance, Polymorphism, and Class Hierarchies
 
-- `lab04/` – Advanced Algorithms: Recursion, Backtracking, and GUI Programming
+- `04-recursion-backtracking-gui/` – Advanced Algorithms: Recursion, Backtracking, and GUI Programming
 
 Each exercise contains its own implementation.
 
